@@ -1,0 +1,23 @@
+p {
+	width:70%;
+	margin-left:15%;
+	padding:2%;
+}
+
+.floated {
+	float:left;
+}
+
+body {
+	padding-bottom:50px;
+}
+
+.thumbnail img {
+	min-height:150px;
+	height:150px;
+}
+
+.standalone {
+	max-width:90%;
+	margin-left:5%;
+}
