@@ -1,3 +1,28 @@
+a:link {
+    color:#0099FF;
+}
+
+a:visited {
+    color:#0099FF;
+}
+
+a:hover {
+    color:#0099FF;
+    text-decoration:none;
+}
+
+a:active {
+    color:#0099FF;
+}
+
+h1 {
+	color:#0099FF;
+}
+
+h2 {
+	color:#0099FF;
+}
+
 p {
 	width:70%;
 	margin-left:15%;
@@ -20,4 +45,10 @@ body {
 .standalone {
 	max-width:90%;
 	margin-left:5%;
+}
+
+.footer {
+	width:auto;
+	height:50px;
+	padding:2px;
 }
